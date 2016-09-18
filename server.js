@@ -18,7 +18,7 @@ app.get('/article-two', function (req, res) {
 });
 
 app.get('/article-three', function (req, res) {
-    res.send('Stop sleeping hippo');
+    res.send('Hello All');
 });
 
 app.get('/ui/style.css', function (req, res) {
