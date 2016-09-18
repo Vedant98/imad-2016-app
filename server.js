@@ -18,7 +18,7 @@ app.get('/article-two', function (req, res) {
 });
 
 app.get('/article-three', function (req, res) {
-    res.send('Article three requested and will not only yeah baby be served here');
+    res.send('Stop sleeping hippo');
 });
 
 app.get('/ui/style.css', function (req, res) {
